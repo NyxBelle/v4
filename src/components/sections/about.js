@@ -135,30 +135,26 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! My name is Rihanat and I love building, growing myself and uplifiting others. I
+              first got interested in tech through a fascination with how machines could learn not
+              just solving problems, but evolving to think and create.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              Over time, my passion grew from coding small scripts to building intelligent,
+              interactive systems. Today,I’m focused on artificial intelligence, machine learning,
+              and designing technology that feels intuitive and alive. Beyond coding, I love
+              exploring how creativity and technology blend, crafting experiences that are not just
+              functional, but futuristic and inspiring.
             </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              Recently, I did a 30 days AI Learning challenge to kickstart my journey in the
+              Artificial Intelligence industry where I studied topics like machine learning,
+              generative AI, and bias detection. I shared my daily journey, learnings, and
+              reflections publicly on {'  '}
+              <a href="www.linkedin.com/in/rihanat-idowu">LinkedIn</a> to document my progress and
+              connect with the wider tech community.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
