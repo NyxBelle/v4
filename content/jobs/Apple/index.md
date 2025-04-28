@@ -1,13 +1,13 @@
 ---
-date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+date: '2025-04'
+title: 'Crash Course on Python'
+company: 'Google'
+location: 'Remote'
+range: 'April 2025'
+url: 'https://www.coursera.org/learn/python-crash-course/home/info'
 ---
 
-- Developed and styled interactive web applications for Apple Music using Ember and SCSS
-- Built and shipped the Apple Music Extension for Facebook Messenger leveraging third-party and internal API integrations
-- Architected and implemented the user interface of Apple Music's embeddable web player widget for in-browser user authorization and full song playback
-- Contributed extensively to the creation of MusicKit JS, a public-facing JavaScript SDK for embedding Apple Music players into web applications
+- Gained strong foundations in Python programming, covering syntax, scripting, automation, and basic functions.
+- CDeveloped and refactored functions, implemented control flow structures, and wrote clean, reusable code..
+- Mastered loops and complex data structures, including strings, lists, tuples, and dictionaries.
+- Applied a structured problem-solving framework to design and build full Python scripts for real-world challenges.

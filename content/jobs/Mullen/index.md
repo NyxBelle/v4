@@ -1,12 +1,13 @@
 ---
-date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
-location: 'Boston, MA'
-range: 'July - December 2015'
-url: 'https://us.mullenlowe.com/'
+date: '2025-04'
+title: 'Python for Data Science, AI & Development'
+company: 'IBM'
+location: 'Remote'
+range: 'April 2025'
+url: 'https://www.coursera.org/learn/python-for-applied-data-science-ai'
 ---
 
-- Developed, maintained, and shipped production code for client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
-- Performed quality assurance tests on various sites to ensure cross-browser compatibility and mobile responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
+- Developed a strong foundation in Python programming, working with data types, variables, expressions, and string operations.
+- Gained experience with Python data structures including lists, tuples, dictionaries, and sets for efficient data management.
+- Designed and implemented Python programs using functions, loops, conditionals, object-oriented programming, and exception handling.
+  Applied skills in data collection and manipulation through file handling, API integration, web scraping, and libraries such as Pandas and NumPy.

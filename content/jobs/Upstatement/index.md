@@ -1,13 +1,13 @@
 ---
-date: '2018-05-14'
-title: 'Lead Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+date: '2025-04'
+title: 'MLOps Tools: MLflow and Hugging Face'
+company: 'Duke University'
+location: 'Remote'
+range: 'April 2025'
+url: 'https://www.coursera.org/learn/mlops-mlflow-huggingface-duke/'
 ---
 
-- Deliver high-quality, robust production code for a diverse array of projects for clients including Harvard Business School, Everytown for Gun Safety, Pratt Institute, Koala Health, Vanderbilt University, The 19th News, and more
-- Work alongside creative directors to lead the research, development, and architecture of technical solutions to fulfill business requirements
-- Collaborate with designers, project managers, and other engineers to transform creative concepts into production realities for clients and stakeholders
-- Provide leadership within engineering department through close collaboration, knowledge shares, and mentorship
+- Gained hands-on experience with MLflow for experiment tracking, model registration, artifact management, and project reproducibility.
+- Developed skills using Hugging Face libraries and repositories for managing and interacting with machine learning models and datasets.
+- Implemented containerization of Hugging Face models with FastAPI, and automated deployments using CI/CD pipelines with Docker Hub, Azure, and GitHub Actions.
+- Performed fine-tuning of pre-trained Hugging Face models, deployed them to cloud platforms, and optimized models using ONNX for broader compatibility.

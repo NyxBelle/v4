@@ -1,12 +1,13 @@
 ---
-date: '2016-12-21'
-title: 'Software Engineer Co-op'
-company: 'Starry'
-location: 'Boston, MA'
-range: 'July - December 2016'
-url: 'https://starry.com/'
+date: '2025-04'
+title: 'Generative AI with Large Language Models'
+company: 'DeepLearning.AI'
+location: 'Remote'
+range: 'April 2025'
+url: 'https://www.coursera.org/learn/generative-ai-with-llms/'
 ---
 
-- Engineered and improved major features of Starry's customer-facing Android web app using ES6, Handlebars, Backbone, Marionette, and CSS
-- Proposed and implemented scalable solutions to issues identified with cloud services and applications responsible for communicating with the Starry Station internet router
-- Collaborated with designers and other developers to ensure thoughtful and consistent user experiences across Starry’s iOS and Android mobile apps
+- Gained a solid understanding of Generative AI, large language models (LLMs), model pre-training, fine-tuning, and the typical AI project lifecycle.
+- Explored fine-tuning methods like instruction tuning and Parameter-efficient Fine-Tuning (PEFT) to improve model performance and lower computational costs.
+- Learned how Reinforcement Learning with Human Feedback (RLHF) improves model alignment, and explored chain-of-thought prompting to enhance reasoning abilities.
+  Identified challenges such as catastrophic forgetting and knowledge cut-offs, applying solutions like information retrieval techniques and augmentation strategies.

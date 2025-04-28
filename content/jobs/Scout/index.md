@@ -1,11 +1,13 @@
 ---
-date: '2017-04-01'
-title: 'Developer'
-company: 'Scout Studio'
-location: 'Northeastern University'
-range: 'Spring 2016 & 2017'
-url: 'https://web.northeastern.edu/scout/'
+date: '2025-04'
+title: 'Machine Learning with Python'
+company: 'Freecodecamp'
+location: 'Remote'
+range: 'April 2925'
+url: 'https://www.freecodecamp.org/learn/machine-learning-with-python/'
 ---
 
-- Collaborated with other student designers and engineers on pro-bono projects to create new brands, design systems, and websites for organizations in the community
-- Built and delivered technical solutions according to stakeholder business requirements
+- Gained a strong foundation in machine learning concepts including supervised and unsupervised learning methods.
+- Worked with important libraries like NumPy, Pandas, Matplotlib, and Scikit-learn for data handling and model building.
+  Built, trained, and evaluated models like linear regression, logistic regression, decision trees, and k-means clustering.
+  Applied machine learning techniques to real datasets, improving skills in model evaluation, data preprocessing, and prediction.
