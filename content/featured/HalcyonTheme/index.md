@@ -1,15 +1,16 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
+title: 'Linear Regression Health Costs'
 cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+github: 'https://github.com/NyxBelle/health-costs-regression'
+external: 'https://colab.research.google.com/drive/1VkdWVsF-knTtrBV-bHw3XdoR1qM1FMVt?usp=sharing'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - Python
+  - TensorFlow/Keras
+  - Google Colaboratory
+  - Google Colaboratory
+  - Pandas/NumPy
+  - Matplotlib
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+The model uses linear regression to predict healthcare costs based on a set of features. The dataset includes information such as age, BMI, smoking habits, and geographical region. The goal is to minimize the Mean Absolute Error (MAE) to under $3500.
